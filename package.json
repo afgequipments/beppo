@@ -1,5 +1,5 @@
 {
-  "name": "api-documentation",
+  "name": "beppo",
   "type": "module",
   "private": true,
   "scripts": {
